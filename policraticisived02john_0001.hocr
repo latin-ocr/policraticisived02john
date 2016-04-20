@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./policraticisived02john_0001.png"; bbox 0 0 2294 3554; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 291 340 313 791">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 291 340 313 791">
+     <span class='ocr_line' id='line_1_1' title="bbox 291 340 313 791; baseline -112.75 112.75"><span class='ocrx_word' id='word_1_1' title='bbox 292 340 312 475; x_wconf 62' lang='lat' dir='ltr'>mmmjom</span> <span class='ocrx_word' id='word_1_2' title='bbox 291 500 313 513; x_wconf 72' lang='grc' dir='ltr'>ω</span> <span class='ocrx_word' id='word_1_3' title='bbox 292 532 312 667; x_wconf 54' lang='lat'>&amp;4103-</span> <span class='ocrx_word' id='word_1_4' title='bbox 291 700 313 731; x_wconf 38' lang='grc' dir='ltr'>κω</span> <span class='ocrx_word' id='word_1_5' title='bbox 292 756 312 791; x_wconf 53' lang='grc' dir='ltr'>μΟ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 258 266 522 1084">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 258 266 522 1084">
+     <span class='ocr_line' id='line_1_2' title="bbox 258 266 522 1084"><span class='ocrx_word' id='word_1_6' title='bbox 258 266 522 1084; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 291 815 313 991">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 291 815 313 991">
+     <span class='ocr_line' id='line_1_3' title="bbox 291 815 313 991; baseline -88 264"><span class='ocrx_word' id='word_1_7' title='bbox 291 815 313 991; x_wconf 59' lang='grc' dir='ltr'>&gt;ῗωπω&gt;ὲῇ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
